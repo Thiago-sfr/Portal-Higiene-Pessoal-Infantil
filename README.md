@@ -32,7 +32,7 @@ O projeto une os cursos de saúde e tecnologia da UNIFG para trabalhar o tema de
 ## Público-alvo e aplicação
 
 - **Público:** alunos do 6º ano do Ensino Fundamental, podendo envolver também professores e profissionais da escola
-- **Data:** 04/11/2026 (quarta-feira), das 7h30 às 12h
+- **Data:** 04/11/2026 (quarta-feira), das 8h às 12h
 - **Turmas atendidas:** 3
 
 Em cada turma, a atividade segue quatro etapas:
