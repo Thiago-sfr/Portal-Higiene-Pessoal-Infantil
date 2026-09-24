@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-label="Dente sorridente e escova de dentes com creme dental">
+  <ellipse cx="190" cy="292" rx="130" ry="12" fill="#16324F" fill-opacity=".08"/>
+  <path d="M118 70c-24 0-36 22-34 50 3 38 20 60 26 104 3 30 30 34 38 8l12-40q16-18 32 0l12 40c8 26 35 22 38-8 6-44 23-66 26-104 2-28-10-50-34-50-22 0-34 12-58 12s-36-12-58-12z" fill="#fff" stroke="#CFE0EA" stroke-width="5"/>
+  <path d="M236 92c10 16 8 40 2 62" stroke="#D8F3F1" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <circle cx="152" cy="140" r="8" fill="#16324F"/>
+  <circle cx="200" cy="140" r="8" fill="#16324F"/>
+  <circle cx="155" cy="137" r="2.5" fill="#fff"/>
+  <circle cx="203" cy="137" r="2.5" fill="#fff"/>
+  <circle cx="136" cy="160" r="9" fill="#E9607A" fill-opacity=".35"/>
+  <circle cx="216" cy="160" r="9" fill="#E9607A" fill-opacity=".35"/>
+  <path d="M160 162q16 18 32 0" stroke="#16324F" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <g transform="rotate(32 312 170)">
+    <rect x="298" y="150" width="28" height="150" rx="14" fill="#19A7A8"/>
+    <rect x="305" y="168" width="7" height="64" rx="3.5" fill="#fff" fill-opacity=".35"/>
+    <rect x="300" y="84" width="24" height="76" rx="10" fill="#0F7F83"/>
+    <rect x="278" y="88" width="24" height="60" rx="5" fill="#CDEBFA"/>
+    <path d="M278 96h-8M278 108h-8M278 120h-8M278 132h-8M278 144h-8" stroke="#9ADBD8" stroke-width="4" stroke-linecap="round"/>
+    <path d="M270 90c-12 4-12 16-2 20-10 6-8 18 2 20-8 8-2 18 8 16" fill="#fff" stroke="#5CC6E8" stroke-width="3"/>
+  </g>
+</svg>

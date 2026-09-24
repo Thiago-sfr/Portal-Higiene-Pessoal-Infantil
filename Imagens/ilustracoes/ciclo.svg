@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-label="Calendário com dias marcados, coração e flor">
+  <ellipse cx="200" cy="292" rx="140" ry="12" fill="#16324F" fill-opacity=".08"/>
+  <rect x="90" y="62" width="220" height="206" rx="24" fill="#fff" stroke="#CFE0EA" stroke-width="4"/>
+  <path d="M90 86a24 24 0 0 1 24-24h172a24 24 0 0 1 24 24v26H90z" fill="#E9607A"/>
+  <rect x="136" y="46" width="12" height="32" rx="6" fill="#16324F"/>
+  <rect x="252" y="46" width="12" height="32" rx="6" fill="#16324F"/>
+  <g fill="#EEF4F8">
+    <circle cx="126" cy="146" r="13"/><circle cx="163" cy="146" r="13"/><circle cx="200" cy="146" r="13"/><circle cx="237" cy="146" r="13"/><circle cx="274" cy="146" r="13"/>
+    <circle cx="126" cy="186" r="13"/><circle cx="274" cy="186" r="13"/>
+    <circle cx="126" cy="226" r="13"/><circle cx="163" cy="226" r="13"/><circle cx="200" cy="226" r="13"/><circle cx="237" cy="226" r="13"/><circle cx="274" cy="226" r="13"/>
+  </g>
+  <g fill="#F7A9B8"><circle cx="163" cy="186" r="13"/><circle cx="237" cy="186" r="13"/></g>
+  <circle cx="200" cy="186" r="13" fill="#E9607A"/>
+  <g transform="translate(320 92) scale(1.3)">
+    <path d="M0 14C-22-2-28-22-13-30-4-34 0-28 0-24c0-4 4-10 13-6 15 8 9 28-13 44z" fill="#E9607A"/>
+  </g>
+  <g transform="translate(78 250)">
+    <g fill="#FFC94A"><circle cx="0" cy="-16" r="11"/><circle cx="15" cy="-5" r="11"/><circle cx="9" cy="13" r="11"/><circle cx="-9" cy="13" r="11"/><circle cx="-15" cy="-5" r="11"/></g>
+    <circle cx="0" cy="0" r="9" fill="#F28C3A"/>
+  </g>
+</svg>
